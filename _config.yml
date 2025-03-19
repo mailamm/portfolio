@@ -1,5 +1,6 @@
 title: Mai Lam # your name (or website title) here
 <br><br/>
+<br><br/>
 description: |
   <h2>About Me</h2>
   <p>
@@ -13,7 +14,8 @@ description: |
     My goal is to bridge the gap between <strong>data analytics and business decision-making</strong>, 
     driving <strong>data-driven strategies</strong> that create real-world impact.
   </p>
-
+<br><br/>
+<br><br/>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
