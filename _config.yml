@@ -1,6 +1,13 @@
 title: Mai Lam # your name (or website title) here
 
+description: > 
+  ## About Me  
+  I am a graduate student at **Carnegie Mellon University**, pursuing a Master's in **Information Systems Management**.  
+  With a background in business and technology, I am passionate about leveraging **data science, machine learning, and optimization techniques**  
+  to extract actionable insights from complex datasets.  
 
+  My goal is to bridge the gap between **data analytics and business decision-making**,  
+  driving **data-driven strategies** that create real-world impact.
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
