@@ -28,9 +28,23 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-          <p>This project is hosted on GitHub Pages.</p>
-        {% endif %}
+        <!-- Professional Introduction -->
+        <h2>About Me</h2>
+        <p>
+          I am a graduate student at <strong>Carnegie Mellon University</strong>, pursuing a Master's in <strong>Information Systems Management</strong>.
+          With a background in business and technology, I am passionate about leveraging **data science, machine learning, and optimization techniques** 
+          to extract actionable insights from complex datasets.  
+          My goal is to bridge the gap between **data analytics and business decision-making**, driving **data-driven strategies** that create real-world impact.
+        </p>
+
+        <!-- Contact Information -->
+        <h2>Contact</h2>
+        <ul>
+          <li>Email: <a href="mailto:quynhmailam06@gmail.com">Email</a></li>
+          <li>LinkedIn: <a href="https://www.linkedin.com/in/mai-q-lam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a></li>
+        </ul>
+
+    
 
         {% if site.show_downloads %}
           <ul class="downloads">
@@ -40,6 +54,47 @@
           </ul>
         {% endif %}
       </header>
+
+      <!-- Skills Section -->
+      <section>
+        <h2>Skills</h2>
+
+        <h3>Programming Languages</h3>
+        <ul>
+          <li>Python, SQL (Oracle, MySQL, PostgreSQL), R (tidyverse, dplyr, lubridate), Java</li>
+        </ul>
+
+        <h3>Data Visualization</h3>
+        <ul>
+          <li>Power BI, Tableau, Looker, Matplotlib, ggplot2, Seaborn, PowerPoint</li>
+        </ul>
+
+        <h3>Machine Learning & AI</h3>
+        <ul>
+          <li>PyTorch, TensorFlow, Scikit-Learn, Torchvision, NLTK</li>
+        </ul>
+
+        <h3>Data Processing & Automation</h3>
+        <ul>
+          <li>Pandas, NumPy, SciPy, BeautifulSoup, Selenium, ETL Pipelines</li>
+        </ul>
+
+        <h3>Optimization & Spreadsheet Modeling</h3>
+        <ul>
+          <li>Excel (Pivot Tables, Solver, Simplex LP Optimization)</li>
+        </ul>
+
+        <h3>Statistical Analysis</h3>
+        <ul>
+          <li>A/B Testing, Regression Analysis, Hypothesis Testing, Statistical Modeling, Forecasting</li>
+        </ul>
+
+        <h3>Certifications</h3>
+        <ul>
+          <li>Google Data Analytics Professional Certificate</li>
+          <li>Google Advanced Data Analytics Professional Certificate</li>
+        </ul>
+      </section>
 
       <section>
         {{ content }}
