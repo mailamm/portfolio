@@ -7,7 +7,7 @@ title: Mai's Portfolio
 
 ### **Data Analysis & Machine Learning**
 
-#### [🔗 Smart Device Data Analysis (Python)](/projects/smart-device-python)
+#### [🔗 Smart Device Data Analysis (Python)](https://www.kaggle.com/code/kaiseedbed/bellabeat-case-study-with-python)
 <table>
   <tr>
     <td><img src="images/1.png?raw=true" alt="Image 1" width="300"/></td>
@@ -32,7 +32,7 @@ title: Mai's Portfolio
 
 ---
 
-#### [🔗 Smart Device Data Analysis (R)](/projects/smart-device-r)
+#### [🔗 Smart Device Data Analysis (R)]([/projects/smart-device-r](https://www.kaggle.com/code/kaiseedbed/bellabeat-case-study-with-r))
 <img src="images/smart_device_r.png?raw=true" alt="Smart Device R Analysis" width="300"/>
 
 - **Tools:** R, Tidyverse, dplyr, ggplot2
