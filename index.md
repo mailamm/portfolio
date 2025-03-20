@@ -56,7 +56,7 @@ title: Mai's Portfolio
 
 ---
 
-#### [🔗 Health Data Clustering & Predictive Modeling](/projects/health-clustering)
+#### [🔗 Health Data Clustering & Predictive Modeling](https://mailamm.github.io/health-data-project/)
 <table>
   <tr>
     <td><img src="images/10.png?raw=true" alt="Image 1" width="300"/></td>
