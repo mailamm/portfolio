@@ -1,6 +1,9 @@
+---
+layout: default
+title: Mai's Portfolio
+---
 ## Mai's Portfolio
 
----
 
 ### **Data Analysis & Machine Learning**
 
