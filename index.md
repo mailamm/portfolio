@@ -5,7 +5,18 @@
 ### **Data Analysis & Machine Learning**
 
 #### [🔗 Smart Device Data Analysis (Python)](/projects/smart-device-python)
-<img src="images/smart_device_python.png?raw=true" alt="Smart Device Python Analysis" width="300"/>
+<table>
+  <tr>
+    <td><img src="images/1.png?raw=true" alt="Image 1" width="300"/></td>
+    <td><img src="images/2.png?raw=true" alt="Image 2" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/3.png?raw=true" alt="Image 3" width="300"/></td>
+    <td><img src="images/4.png?raw=true" alt="Image 4" width="300"/></td>
+  </tr>
+</table>
+
+
 
 - **Tools:** Python, Pandas, Matplotlib, Seaborn
 - **Dataset:** 10,000+ rows of smart device data (steps, calories, sleep patterns)
