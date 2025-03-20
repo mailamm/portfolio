@@ -79,7 +79,7 @@ title: Mai's Portfolio
 
 ### **SQL & Database Projects**
 
-#### [🔗 SQL Database for Employee Training Management](/projects/sql-training)
+#### [🔗 SQL Database for Employee Training Management](https://mailamm.github.io/database-project/)
 <img src="images/ERD.png?raw=true" alt="SQL Database Project" width="300"/>
 
 - **Tools:** SQL (Oracle, MySQL), ERD Modeling
