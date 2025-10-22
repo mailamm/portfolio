@@ -1,3 +1,5 @@
+const asset = (path: string) => `${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`
+
 export const SITE = {
   name: "Mai's Data Diaries",
   handle: '@maisdatadiaries',
@@ -7,10 +9,10 @@ export const SITE = {
   githubStarsTotal: 42,
   linkedinFollowers: 500,
   resumeUrl: '/resume.pdf',
-  logoPath: '/logo.png',
-  bannerUrl: '/banner.jpg',
+  logoPath: asset('logo.png'),
+  bannerUrl: asset('banner.jpg'),
   linkedinUrl: 'https://www.linkedin.com/in/mai-q-lam/',
-  avatarUrl: '/avatar.jpg'
+  avatarUrl: asset('avatar.jpg')
 }
 
 export function computeSubs() {
